@@ -42,6 +42,11 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 
 ```
 
+## Flow Chart Diagram
+This is the link to the flow chart I created to help with the creation of this Treasure Hunt.
+
+[Flow Chart Diagram](https://drive.google.com/file/d/1ZQ6kQsNjH3TwZ1ZQmCapBDOuj2E-yD1G/view?usp=sharing)
+
 # Refrence to Treasure Island Artwork
 [https://ascii.co.uk/art/treasure](https://ascii.co.uk/art/treasure)
 
